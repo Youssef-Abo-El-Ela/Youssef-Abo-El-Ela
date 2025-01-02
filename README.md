@@ -1,6 +1,12 @@
-# Hi there, I'm Youssef Aboelela 👋
 
-![Profile Views](https://komarev.com/ghpvc/?username=Youssef-Abo-El-Ela&color=blue)
+<div align='center'>
+  
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hello+%2C+I'm+Youssef+Aboelela;An+Aspiring++Software+Engineer)](https://git.io/typing-svg)
+
+  
+  ![Cool Banner](https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif)
+
+</div>
 
 ## 👨‍💻 About Me
 
@@ -13,30 +19,18 @@ I'm a Senior-1 Systems and Biomedical Engineering Student with a strong interest
 <div align="center">
 
 ### Languages
-<img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white" />
-<img src="https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+<img src="https://skillicons.dev/icons?i=cpp,py,java,js&perline=5" />
 
 ### Frameworks
-<img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-<img src="https://img.shields.io/badge/-Express.JS-000000?style=for-the-badge&logo=express&logoColor=white" />
+<img src="https://skillicons.dev/icons?i=express,nodejs,qt&perline=5" />
 
 ### Databases
-<img src="https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/-DynamoDB-4053D6?style=for-the-badge&logo=amazon-dynamodb&logoColor=white" />
+<img src="https://skillicons.dev/icons?i=postgres,dynamodb&perline=5" />
 
 ### Tools
-<img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/-Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" />
-<img src="https://img.shields.io/badge/-PyQt-41CD52?style=for-the-badge&logo=qt&logoColor=white" />
+<img src="https://skillicons.dev/icons?i=git,postman,npm,blender,vscode&perline=5" />
 
 </div>
----
-
-## 📈 GitHub Stats
-
-![Youssef's GitHub stats](https://github-readme-stats.vercel.app/api?username=Youssef-Abo-El-Ela&show_icons=true&theme=radical)
 
 ---
 
@@ -44,6 +38,26 @@ I'm a Senior-1 Systems and Biomedical Engineering Student with a strong interest
 
 - **Email:** youssef.aboelela6@gmail.com
 - **LinkedIn:** [Youssef Abo El Ela](https://www.linkedin.com/in/youssef-aboelela)
+
+---
+
+## 📈 GitHub Stats
+
+<div align="center">
+  
+  ![Youssef's GitHub stats](https://github-readme-stats.vercel.app/api?username=Youssef-Abo-El-Ela&show_icons=true&theme=radical)
+  
+</div>
+
+---
+
+## 📊 Most Used Languages
+
+<div align="center">
+  
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Youssef-Abo-El-Ela&layout=compact&theme=radical)
+  
+</div>
 
 ---
 
@@ -55,4 +69,4 @@ I'm a Senior-1 Systems and Biomedical Engineering Student with a strong interest
 
 - **Medical Device Training and Maintenance in Blender:**
 
-   Making a simulation in blender for a training on spectrophotometer in a laboratory. This project is done for Computer Graphics University Course
+  Making a simulation in blender for a training on spectrophotometer in a laboratory. This project is done for Computer Graphics University Course
